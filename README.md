@@ -1,2 +1,4 @@
 ﻿# Demo_Git
-Une demo git Qui se passe bien
+Une demo git qui se passe bien
+
+et modifiée depuis GitHub
